@@ -1,4 +1,4 @@
-# Good Readme Practice
+# GoodReadMe Gnerator
   ## Table of Contents:
     1. [Description](#description) 
     2. [Installation](#Installation)
@@ -9,16 +9,18 @@
     7. [GitHub](#GitHub)
     8. [E-mail](#E-mail)
   ## Description
-  Creating a Readme file using node js 
+  Generating ReadMe file using node js 
   ## Installation
-  By using npm install in Visual Studio. Follow the instruction or Youtube to know more. 
+  install npm and write a javascript
   ## Usage
-  By putting a commend: node index.js in the terminal and answer the questions. 
+  by clicking the index.js and open the terminal and type node index.js
   ## Contributing
-  No sorry. 
+  sorry, cannot contribute
   ## Tests
   undefined
   ## GitHub
   msjinheelee
   ## E-mail
-  coding.jinee.lee@gmail.com 
+  coding.jinee.lee@gmail.com
+  ## walk through video
+  https://drive.google.com/file/d/1sNND6dT4g44i46AFlcazftOwx60OHUpE/view
